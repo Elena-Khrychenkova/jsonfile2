@@ -1,0 +1,30 @@
+[
+  {
+    "itemImage": "images/cream.jpg",
+    "itemName": "Face Cream",
+    "value": 100,
+    "amount": 1,
+    "subtotal": " "
+  },
+  {
+    "itemImage": "images/soap.jpg",
+    "itemName": "Gift Set",
+    "value": 70,
+    "amount": 1,
+    "subtotal": " "
+  },
+  {
+    "itemImage": "images/soap2.jpg",
+    "itemName": "Soap",
+    "value": 20,
+    "amount": 1,
+    "subtotal": " "
+  },
+  {
+    "itemImage": "images/cosmetic-oil.jpg",
+    "itemName": "Cosmetic Oil",
+    "value": 35,
+    "amount": 1,
+    "subtotal": " "
+  }
+]
