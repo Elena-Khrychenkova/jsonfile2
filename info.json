@@ -4,27 +4,27 @@
     "itemName": "Face Cream",
     "value": 100,
     "amount": 1,
-    "subtotal": " "
+    "subtotal": 100
   },
   {
     "itemImage": "images/soap.jpg",
     "itemName": "Gift Set",
     "value": 70,
     "amount": 1,
-    "subtotal": " "
+    "subtotal": 70
   },
   {
     "itemImage": "images/soap2.jpg",
     "itemName": "Soap",
     "value": 20,
     "amount": 1,
-    "subtotal": " "
+    "subtotal": 20
   },
   {
     "itemImage": "images/cosmetic-oil.jpg",
     "itemName": "Cosmetic Oil",
     "value": 35,
     "amount": 1,
-    "subtotal": " "
+    "subtotal": 35
   }
 ]
