@@ -3,7 +3,7 @@
     "itemImage": "images/cream.jpg",
     "itemName": "Face Cream",
     "value": 100,
-    "amount": 1,
+    "amount": "1",
     "subtotal": " "
   },
   {
